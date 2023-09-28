@@ -1,4 +1,4 @@
-[![@spm2020's Holopin board]]
+[![An image of @spm2020's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spm2020)](https://holopin.io/@spm2020)
 
 - 👋 Hi, I’m @spm-2020
 - 👀 I’m interested in ...
