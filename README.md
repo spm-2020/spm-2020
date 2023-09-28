@@ -1,4 +1,4 @@
-[![@spm2020's Holopin board](https://holopin.io/api/user/board?user=spm2020)]
+[![@spm2020's Holopin board]]
 
 - 👋 Hi, I’m @spm-2020
 - 👀 I’m interested in ...
